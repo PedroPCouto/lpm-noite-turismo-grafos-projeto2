@@ -4,9 +4,9 @@
   Sistema proprõem prover soluções inteligentes de turismo conforme os requisitos determinados pela empresa contratante, contendo serviço de registros de cidades e estradas e buscando seu relacionamento de maneira otimizada utilizando a teoria de grafos para tal.
   O sistema conta com interface simples, apenas sendo possível utiliza-lo no terminal, mas com funcionalidades claras e completas, de acordo com os requisitos.
 2. Benefícios:
-  Simplificação da busca por caminhos de acesso entre cidades, podendo determinar distâncias e até a melhor rota
-  Fornece informações precisas de como as cidades podem ser acessadas e, se sequer podem
-  Sistema de turismo que provê informações sobre todas as cidades que podem ser visitadas
+ - Simplificação da busca por caminhos de acesso entre cidades, podendo determinar distâncias e até a melhor rota
+ - Fornece informações precisas de como as cidades podem ser acessadas e, se sequer podem
+ - Sistema de turismo que provê informações sobre todas as cidades que podem ser visitadas
 
 ---
 
